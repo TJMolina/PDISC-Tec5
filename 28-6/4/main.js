@@ -1,1 +1,0 @@
-document.getElementById("div").addEventListener("dblclick",()=>document.getElementById("img").className = (document.getElementById("img").classList=='img-off')?"img-actived":"img-off");
